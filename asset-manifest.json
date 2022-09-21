@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sass-dog/static/css/main.08dbfc52.css",
+    "main.js": "/sass-dog/static/js/main.571dfc3d.js",
+    "static/js/787.d0c33f21.chunk.js": "/sass-dog/static/js/787.d0c33f21.chunk.js",
+    "index.html": "/sass-dog/index.html",
+    "main.08dbfc52.css.map": "/sass-dog/static/css/main.08dbfc52.css.map",
+    "main.571dfc3d.js.map": "/sass-dog/static/js/main.571dfc3d.js.map",
+    "787.d0c33f21.chunk.js.map": "/sass-dog/static/js/787.d0c33f21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08dbfc52.css",
+    "static/js/main.571dfc3d.js"
+  ]
+}
